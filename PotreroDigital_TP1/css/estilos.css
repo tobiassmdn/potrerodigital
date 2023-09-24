@@ -1,0 +1,36 @@
+body { background-color: #D7DBDD; 
+margin: 0px;
+}
+a {
+    color: #D7DBDD;
+    text-decoration: none;
+    padding-left: 10px;
+    font-size: 20px;
+
+}
+.headerindex{
+    background-color: #0B6B9B;
+    width: 100%;
+    height: 150px;
+    margin: 0px;
+}
+.textheader{
+    text-align: center;
+    padding: 50px;
+    font-size: 50px;
+    margin: 0px;
+    color: #D7DBDD;
+    font: impact;
+}
+.navinicio{
+    background-color: #0E89C7;
+    margin: 0;
+}
+.video{
+    text-align: center;
+    padding: 50px;
+    font-size: 50px;
+    margin: 0px;
+    color: #D7DBDD;
+    font: impact;
+}
